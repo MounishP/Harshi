@@ -1,0 +1,10 @@
+Write if...else conditions for the following
+Take inputs from the user
+
+1. Take 2 numbers as input check if they are equal
+2. Take 2 numbers as input(a,b) check if a is greater than b
+3. Take 2 numbers as input(a,b) check if a is lesser than b
+
+4. Take 3 numbers as input check which is greater
+    Ex: Input: 56,2345,78
+        Output: 2345
